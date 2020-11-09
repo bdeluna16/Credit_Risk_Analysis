@@ -6,7 +6,7 @@ In this project we were tasked with evaluating six different machine learning mo
 
 # Results
 
-<img width="338" alt="random over sampler" src="https://user-images.githubusercontent.com/67936161/98509411-0137ef80-2216-11eb-830d-587f31a106b0.PNG">
+<img width="338" alt="random over sampler" src="https://user-images.githubusercontent.com/67936161/98509411-0137ef80-2216-11eb-830d-587f31a106b0.PNG" width="200" height="400">
 
 <img width="329" alt="smote" src="https://user-images.githubusercontent.com/67936161/98509418-039a4980-2216-11eb-9eed-e001313956d9.PNG">
 
