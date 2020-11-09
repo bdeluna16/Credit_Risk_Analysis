@@ -6,11 +6,14 @@ In this project we were tasked with evaluating six different machine learning mo
 
 # Results
 
+<img width="338" alt="random over sampler" src="https://user-images.githubusercontent.com/67936161/98509411-0137ef80-2216-11eb-830d-587f31a106b0.PNG">
 
+<img width="329" alt="smote" src="https://user-images.githubusercontent.com/67936161/98509418-039a4980-2216-11eb-9eed-e001313956d9.PNG">
 
-| RandomOverSampler Classification Report |
-| ----------------------------------------|
-                |pre   | rec  | f1   |
-| 
-| High Risk     | 0.01 | 0.64 | 0.02 |
-| Low Risk      | 1.00 | 0.67 | 0.80 |
+<img width="329" alt="random under sampler" src="https://user-images.githubusercontent.com/67936161/98509422-06953a00-2216-11eb-8de8-b0d2a81d3702.PNG">
+
+<img width="327" alt="over under" src="https://user-images.githubusercontent.com/67936161/98509435-0a28c100-2216-11eb-96ee-f69d3c60038a.PNG">
+
+<img width="224" alt="balanced random" src="https://user-images.githubusercontent.com/67936161/98509442-0c8b1b00-2216-11eb-9e4d-f815928628cc.PNG">
+
+<img width="220" alt="adaboost" src="https://user-images.githubusercontent.com/67936161/98509446-0e54de80-2216-11eb-94dc-a3cf009c0d36.PNG">
