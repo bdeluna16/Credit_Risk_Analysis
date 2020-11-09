@@ -6,14 +6,14 @@ In this project we were tasked with evaluating six different machine learning mo
 
 # Results
 
-<img width="338" alt="random over sampler" src="https://user-images.githubusercontent.com/67936161/98509411-0137ef80-2216-11eb-830d-587f31a106b0.PNG">
+<img width="495" alt="random over sampler" src="https://user-images.githubusercontent.com/67936161/98509860-dbf7b100-2216-11eb-9605-78d3af9975c6.PNG">
 
-<img width="329" alt="smote" src="https://user-images.githubusercontent.com/67936161/98509418-039a4980-2216-11eb-9eed-e001313956d9.PNG">
+<img width="505" alt="smote" src="https://user-images.githubusercontent.com/67936161/98509867-de5a0b00-2216-11eb-935b-2d9bfb88721d.PNG">
 
-<img width="329" alt="random under sampler" src="https://user-images.githubusercontent.com/67936161/98509422-06953a00-2216-11eb-8de8-b0d2a81d3702.PNG">
+<img width="497" alt="random under sampler" src="https://user-images.githubusercontent.com/67936161/98509872-e154fb80-2216-11eb-9884-0029a9ccff60.PNG">
 
-<img width="327" alt="over under" src="https://user-images.githubusercontent.com/67936161/98509435-0a28c100-2216-11eb-96ee-f69d3c60038a.PNG">
+<img width="499" alt="over under" src="https://user-images.githubusercontent.com/67936161/98509876-e44fec00-2216-11eb-979d-1ed174749ad2.PNG">
 
-<img width="224" alt="balanced random" src="https://user-images.githubusercontent.com/67936161/98509442-0c8b1b00-2216-11eb-9e4d-f815928628cc.PNG">
+<img width="353" alt="balanced random" src="https://user-images.githubusercontent.com/67936161/98509880-e5811900-2216-11eb-8042-e4272d222e09.PNG">
 
-<img width="220" alt="adaboost" src="https://user-images.githubusercontent.com/67936161/98509446-0e54de80-2216-11eb-94dc-a3cf009c0d36.PNG">
+<img width="344" alt="adaboost" src="https://user-images.githubusercontent.com/67936161/98509883-e6b24600-2216-11eb-892c-7db25e4fa21e.PNG">
